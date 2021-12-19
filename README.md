@@ -25,3 +25,7 @@
 *   Shutdown PC osmium
 *   Send messages and links and other files between PC and Android
 *   Notify anything for android with firebase
+
+<br>
+
+![plan](plan.io.drawio.png)
